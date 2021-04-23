@@ -25,16 +25,11 @@
   <h3 align="center">Best-README-Template</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    Baby Yoda Project
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
   </p>
 </p>
 
@@ -70,51 +65,61 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+We are powerful members of Team Leia that is searching for Baby Yoda on the Galaxy and protect him from the enemies. 
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+![alt text](https://user-images.githubusercontent.com/52428972/115845973-bb688f80-a421-11eb-8938-d66b0e1962bb.png)
 
-There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
-
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should element DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have have contributed to expanding this template!
-
-A list of commonly used resources that I find helpful are listed in the acknowledgements.
+![alt text](https://user-images.githubusercontent.com/52428972/115845615-501ebd80-a421-11eb-9ab5-3b2db794fce5.png)
 
 ### Built With
 
 This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
-* [Laravel](https://laravel.com)
-
+* [Deepnote](https://deepnote.com/)
+* [GitHub](https://github.com/)
+* [Jupiter Notebook](https://jupyter.org/)
+* [Stramlit](https://streamlit.io/)
 
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+Our collaborator team works on these tasks and challenges that need to be achieved to achieve the goals of project Baby Yoda as a part of AI Engineer batch at Strive School.
+- We think there are 3 different galaxies in our cluster of data find them and map them.
+- Generate a map only of the uppermost galaxy
+- we think BeBe Yoda is in the rightmost planet of this galaxy. Plot the highlighted planet on the original data
+- Input the coordinates into the force finder
+- From the planet data you will need to extract the force concentration and its two principal components. Map them.
+- Find BeBe Yoda in the closest point to the gravitational center of the two principal components of the force. Highlight in a map the gravitational center and the closest point.
+- Deliver the force coordinates to high command. 
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
+Example of the setting up of Package:
 * npm
   ```sh
-  npm install npm@latest -g
+  import pandas as pd
+  import numpy as np
+
+  from sklearn.datasets import load_iris
+  from sklearn.model_selection import train_test_split
+  from scipy.cluster.hierarchy import linkage, dendrogram
+  from sklearn.decomposition import PCA
+
+  from sklearn.cluster import KMeans
+
+  import matplotlib.pyplot as plt
+  import seaborn as sns
+  print('Setup complete')
   ```
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
+1. Create the repo
 2. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/Leia-Team/leia_team.io
    ```
-3. Install NPM packages
+3. Install packages
    ```sh
    npm install
    ```
@@ -164,26 +169,17 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
-
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
-
-
+| Contributors | Tasks | LINKEDIN|
+| ------ | ------ | ------ |
+| Nurlan_Sarkhanov | Innitial work, Streamlit| [https://www.linkedin.com/in/nurlan-sarkhanov-8749a698/]|
+| Udawala_Hewage_Dil | Deepnote coding | [https://www.linkedin.com/in/kanishka-dilan-udawala-hewage-a1176120a/] |
+| Joshua Batt | Deepnote coding | [https://www.linkedin.com/in/joshua-batt-5797a51b5/] |
+| Thanh Nguyen | Github readme | [https://www.linkedin.com/in/nguyenphuocxuanthanh/ |
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Img Shields](https://shields.io)
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Pages](https://pages.github.com)
-* [Animate.css](https://daneden.github.io/animate.css)
-* [Loaders.css](https://connoratherton.com/loaders)
-* [Slick Carousel](https://kenwheeler.github.io/slick)
-* [Smooth Scroll](https://github.com/cferdinandi/smooth-scroll)
-* [Sticky Kit](http://leafo.net/sticky-kit)
-* [JVectorMap](http://jvectormap.com)
-* [Font Awesome](https://fontawesome.com)
-
+* [Template Reference](https://github.com/othneildrew/Best-README-Template/blob/master/README.md)
+* [Strive School]([https://strive.school/)
 
 
 
