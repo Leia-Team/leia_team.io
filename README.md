@@ -21,17 +21,6 @@
   <h3 align="center">BABY YODA PROJECT</h3>
 
 
-  <p align="center">
-    
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-  </p>
-</p>
-
-
-
 <!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary>Table of Contents</summary>
