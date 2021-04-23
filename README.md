@@ -16,10 +16,8 @@
 <br />
 <p align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Fwinteriscoming.net%2Ffiles%2F2019%2F07%2Fleia-crop.jpeg" alt="Logo" width="80" height="80">
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
-
-  <h3 align="center">Best-README-Template</h3>
 
   <p align="center">
     Baby Yoda Project
@@ -109,37 +107,11 @@ Example of the setting up of Package:
   print('Setup complete')
   ```
 
-### Installation
-
-1. Create the repo
-2. Clone the repo
+### Clone
+Clone the repo
    ```sh
    git clone https://github.com/Leia-Team/leia_team.io
    ```
-3. Install packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```JS
-   const API_KEY = 'ENTER YOUR API';
-   ```
-
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a list of proposed features (and known issues).
 
 
 
