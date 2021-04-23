@@ -15,7 +15,7 @@
 <!-- PROJECT LOGO -->
 <p align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="https://gal.cdn.renderosity.com/images/image_2912589/0d6830b8751a6fa8a0955e9e31b4afb7_original.jpg?v=1576664436" alt="Logo" width="80" height="80">
+    <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/273_Readme_logo-512.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">BABY YODA PROJECT</h3>
