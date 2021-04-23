@@ -13,14 +13,16 @@
 
 
 <!-- PROJECT LOGO -->
-<br />
 <p align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://gal.cdn.renderosity.com/images/image_2912589/0d6830b8751a6fa8a0955e9e31b4afb7_original.jpg?v=1576664436" alt="Logo" width="80" height="80">
   </a>
 
+  <h3 align="center">BABY YODA PROJECT</h3>
+
+
   <p align="center">
-    Baby Yoda Project
+    
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
