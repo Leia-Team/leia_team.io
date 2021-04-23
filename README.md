@@ -18,7 +18,7 @@
     <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/273_Readme_logo-512.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">BABY YODA PROJECT</h3>
+  <h1 align="center">BABY YODA PROJECT</h1>
 
 
 <!-- TABLE OF CONTENTS -->
@@ -121,7 +121,6 @@ Contributions are what make the open source community such an amazing place to b
 
 <!-- LICENSE -->
 ## License
-
 Distributed under the MIT License. See `LICENSE` for more information.
 
 
