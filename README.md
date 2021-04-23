@@ -1,4 +1,4 @@
-# leia_team.readme.io
+
 # Project: Baby Yoda
 # Team-Leia
 We are powerful members of Team Leia that is searching for Baby Yoda on the Galaxy and protect him from the enemies. 
